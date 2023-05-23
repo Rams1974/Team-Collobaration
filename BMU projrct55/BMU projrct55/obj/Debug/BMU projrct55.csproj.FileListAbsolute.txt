@@ -1,0 +1,12 @@
+C:\Users\R & D\source\repos\BMU projrct55\BMU projrct55\bin\Debug\BMU projrct55.exe.config
+C:\Users\R & D\source\repos\BMU projrct55\BMU projrct55\bin\Debug\BMU projrct55.exe
+C:\Users\R & D\source\repos\BMU projrct55\BMU projrct55\bin\Debug\BMU projrct55.pdb
+C:\Users\R & D\source\repos\BMU projrct55\BMU projrct55\obj\Debug\BMU projrct55.csproj.AssemblyReference.cache
+C:\Users\R & D\source\repos\BMU projrct55\BMU projrct55\obj\Debug\BMU_projrct55.Properties.Resources.resources
+C:\Users\R & D\source\repos\BMU projrct55\BMU projrct55\obj\Debug\BMU projrct55.csproj.GenerateResource.cache
+C:\Users\R & D\source\repos\BMU projrct55\BMU projrct55\obj\Debug\BMU projrct55.csproj.CoreCompileInputs.cache
+C:\Users\R & D\source\repos\BMU projrct55\BMU projrct55\obj\Debug\BMU projrct55.exe
+C:\Users\R & D\source\repos\BMU projrct55\BMU projrct55\obj\Debug\BMU projrct55.pdb
+C:\Users\R & D\source\repos\BMU projrct55\BMU projrct55\obj\Debug\BMU_projrct55.loginpg.resources
+C:\Users\R & D\source\repos\BMU projrct55\BMU projrct55\obj\Debug\BMU_projrct55.frmMain.resources
+C:\Users\R & D\source\repos\BMU projrct55\BMU projrct55\obj\Debug\BMU_projrct55.frmDBsetting.resources
